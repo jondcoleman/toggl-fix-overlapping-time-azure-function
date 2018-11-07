@@ -1,0 +1,11 @@
+{
+  "name": "toggl-fix-overlapping-time-azure-function",
+  "version": "1.0.0",
+  "author": "Jonathan Coleman",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "moment-range": "^4.0.1",
+    "toggl-api": "^1.0.1"
+  }
+}
